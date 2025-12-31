@@ -73,8 +73,8 @@ Ramafloxacin is projected to generate **$6–13M annually** in MDR-TB treatment 
 
 | File | Description |
 |------|-------------|
-| `2025 Gilead Case Competition.pdf` | Official case packet with background, data tables, and prompt |
-| `Mara Therapeutics_Phase_3_RESI_Trial_Strategy_vF.pdf` | Our team's final presentation and strategic recommendations |
+| [2025 Gilead Case Competition.pdf](./2025%20Gilead%20Case%20Competition.pdf) | Official case packet with background, data tables, and prompt |
+| [Mara Therapeutics_Phase_3_RESI_Trial_Strategy_vF.pdf](./Mara%20Therapeutics_Phase_3_RESI_Trial_Strategy_vF.pdf) | Our team's final presentation and strategic recommendations |
 | `README.md` | This file — project overview and summary |
 
 ---
